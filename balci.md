@@ -1,7 +1,7 @@
 {
   "name": "0xbalci",
   "website": "https://twitter.com/fzt001",
-  "description": "0xbalci",
-  "logo": "https://i.ibb.co/W083YGX/balci.png",
+  "description": "Operator",
+  "logo": "https://raw.githubusercontent.com/fzt0001/balci/main/balci.png",
   "twitter": "https://twitter.com/fzt001"
 }
